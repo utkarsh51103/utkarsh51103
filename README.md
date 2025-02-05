@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/utkarsh-sharma-78a007259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSpTRiZ9rQ6WGPvuARFd2zw%3D%3D/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/utkarsh-sharma-78a007259](https://www.linkedin.com/in/utkarsh-sharma-78a007259/)?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSpTRiZ9rQ6WGPvuARFd2zw%3D%3D/)
 [<img src="https://img.shields.io/github/followers/utkarsh51105?label=follow&style=social" height="22" title="Follow me" />](https://github.com/utkarsh51103) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://instagram.com/utkarsh511_?igshid=ZDdkNTZiNTM=)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:utkarshsharmabd@gmail.com)
