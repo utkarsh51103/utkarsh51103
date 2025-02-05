@@ -5,13 +5,19 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://instagram.com/utkarsh_511?igshid=ZDdkNTZiNTM=)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:utkarshsharmabd@gmail.com)
 
-My name is **Utkarsh Sharma**, I'm 20 years old and I'm a student of **Information Technology** at Acropolis Institute of technology and research, indore (**UG**) in India
+My name is **Utkarsh Sharma**, I'm 21 years old and I'm a student of **Information Technology** at Acropolis Institute of technology and research, indore (**UG**) in India
 I am currently learning Full stack Web development . I am completely passionate about full stack web development ,Content writing & Blogging . I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
-- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+- 🌱 My Skills and Technologies - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express.js" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/socket-io/socket-io.png" alt="Socket.io" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="Redux" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
