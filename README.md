@@ -12,12 +12,12 @@ I am currently learning Full stack Web development . I am completely passionate 
 
 
 - 🌱 My Skills and Technologies - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express.js" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/socket-io/socket-io.png" alt="Socket.io" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="Redux" />
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" /></code>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" /></code>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express.js" /></code>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" /></code>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/socket-io/socket-io.png" alt="Socket.io" /></code>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="Redux" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
