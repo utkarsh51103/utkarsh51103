@@ -28,12 +28,10 @@ I am currently learning Full stack Web development . I am completely passionate 
 
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Utkarsh#7714 </a>
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ----
 Credit: [utkarsh51103](https://github.com/utkarsh51103)
 
