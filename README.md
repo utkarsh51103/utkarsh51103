@@ -9,7 +9,7 @@ My name is **Utkarsh Sharma**, I'm 21 years old and I'm a student of **Informati
 I am currently learning Full stack Web development . I am completely passionate about full stack web development ,Content writing & Blogging . I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 
 
-<img align= "right" width= "240" src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21raHB4dXZqZDN4OGdoMjBlaXJscGc5dWg0MTJ5czA5ZGVvdXdmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
+<img align= "right" width= "240" src= ["https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21raHB4dXZqZDN4OGdoMjBlaXJscGc5dWg0MTJ5czA5ZGVvdXdmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"]/>
 
 
 - 🌱 My Skills and Technologies - <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" /></code>
